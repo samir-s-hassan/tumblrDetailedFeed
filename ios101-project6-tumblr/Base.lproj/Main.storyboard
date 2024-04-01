@@ -45,7 +45,7 @@
             </objects>
             <point key="canvasLocation" x="1925.9541984732823" y="3.5211267605633805"/>
         </scene>
-        <!--Posts-->
+        <!--Blog Posts-->
         <scene sceneID="tne-QT-ifu">
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="ios101_project6_tumblr" customModuleProvider="target" sceneMemberID="viewController">
@@ -90,7 +90,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <navigationItem key="navigationItem" title="Posts" id="HRK-I0-Z8e"/>
+                    <navigationItem key="navigationItem" title="Blog Posts" id="HRK-I0-Z8e"/>
                     <connections>
                         <outlet property="tableView" destination="oPV-vN-fb6" id="bnX-QB-B66"/>
                     </connections>
