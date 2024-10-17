@@ -1,4 +1,4 @@
-# Project 6 - Tumblr v2.0
+# Tumblr v2.0
 
 Submitted by: Samir Hassan
 
